@@ -154,3 +154,10 @@ python3 -m unittest discover -s tests
 ```
 
 These tests only check the arithmetic; they do not replace a Gazebo test.
+
+
+<img width="1600" height="832" alt="image_1" src="https://github.com/user-attachments/assets/3426b179-6937-4045-9a17-c91914e842d4" />
+
+<img width="1600" height="895" alt="image_2" src="https://github.com/user-attachments/assets/bada9f24-9b4f-4917-9e27-f04dfcb7a5d4" />
+
+<img width="1600" height="851" alt="image_3" src="https://github.com/user-attachments/assets/45d15fab-875c-4e3a-b8c7-2fe786e49df5" />.
